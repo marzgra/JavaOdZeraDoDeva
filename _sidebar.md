@@ -1,4 +1,4 @@
-- [Wstęp](00%20wstęp.md)
+- [Wstęp](00-wstep.md)
 - [Rozdział 1 Podstawy Javy i środowiska uruchomieniowego](01.md)
 - [Rozdział 2 Klasy i struktury danych](02.md)
 - [Rozdział 3 Obiektowość i zaawansowane typy](03.md)
