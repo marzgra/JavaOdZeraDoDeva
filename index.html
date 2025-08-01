@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Moja książka</title>
+  <title>📚 Od zera do java deva</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css" />
 </head>
@@ -15,7 +15,9 @@
       themeColor: '#42b983',
       name: '📚 Od zera do java deva',
       auto2top: true,
-      homePage: '00-wstep.md'
+      alias: {
+        '/_sidebar.md': '/_sidebar.md' // Wymusza jednoznaczne mapowanie
+      }
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
